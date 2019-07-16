@@ -1,2 +1,3 @@
 name:omsboot-dev
 server:8888
+spring.jpa.database:MYSQL
